@@ -1,5 +1,6 @@
 
 /src/.ipynb_checkpoints
 /data/test_data
+/data/new_data
 *.txt
 .DS_Store
